@@ -1,7 +1,10 @@
 # Instagram clone
 Replica of instagram that displays posts, story and has basic registration system.
 
-## Usage guideline for using Instagram api
+Name: Admond tamang
+College Id: 170192
+
+### Usage guideline for using Instagram api
 
 - Clone the repository at your desired location `git clone https://github.com/actimsina/stw304cem-sept2019`
 - `cd` into the folder `instagarmAPI`
