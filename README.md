@@ -1,8 +1,21 @@
 # Instagram clone
-Replica of instagram that displays posts, story and has basic registration system.
+Instagram clones that displays posts, story and has basic registration system.
 
 Name: Admond tamang
 College Id: 170192
+
+## Technical Details
+Node js was used for backend design and Retrofit Api was used for communicating between android devices with node js.
+
+###Use of new and updated components
+Androidx
+ViewPager2
+RecycyclerView 
+SwipeRefreshLayout
+
+###Used some external dependency like
+Material design
+New Toast
 
 ### Usage guideline for using Instagram api
 
