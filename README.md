@@ -7,13 +7,13 @@ College Id: 170192
 ## Technical Details
 Node js was used for backend design and Retrofit Api was used for communicating between android devices with node js.
 
-###Use of new and updated components
+### Use of new and updated components
 Androidx
 ViewPager2
 RecycyclerView 
 SwipeRefreshLayout
 
-###Used some external dependency like
+### Used some external dependency like
 Material design
 New Toast
 
