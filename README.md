@@ -8,18 +8,18 @@ College Id: 170192
 Node js was used for backend design and Retrofit Api was used for communicating between android devices with node js.
 
 ### Use of new and updated components
-Androidx
-ViewPager2
-RecycyclerView 
-SwipeRefreshLayout
+- Androidx
+- ViewPager2
+- RecycyclerView 
+- SwipeRefreshLayout
 
 ### Used some external dependency like
-Material design
-New Toast
+- Material design
+- New Toast
 
 ### Usage guideline for using Instagram api
 
-- Clone the repository at your desired location `git clone https://github.com/actimsina/stw304cem-sept2019`
+- Clone the repository at your desired location `git clone https://github.com/admondtamang/instagramAPI`
 - `cd` into the folder `instagarmAPI`
 - Use command `npm install` to download all necessary packages from npm.
 - Use `npm start` to start the project
